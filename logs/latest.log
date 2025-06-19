@@ -1,0 +1,357 @@
+[22:51:45] [main/INFO]: ModLauncher running: args [--username, SmallShorty, --version, smallpack, --gameDir, C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack, --assetsDir, C:\Users\SmallShorty\AppData\Roaming\.minecraft\assets, --assetIndex, 5, --uuid, d8ff23ff225547e782c52bf944aab4ca, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[22:51:45] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[22:51:46] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[22:51:46] [main/INFO]: Trying GL version 4.6
+[22:51:46] [main/INFO]: Requested GL version 4.6 got version 4.6
+[22:51:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/SmallShorty/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[22:51:46] [main/INFO]: Found mod file AI-Improvements-1.20-0.5.2.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file alexscaves-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file alexsmobs-1.22.9.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file aquamirae-6.API15.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file backpacked-forge-1.20.1-3.0.0-beta.9.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.27-all.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file caelus-forge-3.2.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file citadel-2.6.1-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file craftingtweaks-forge-1.20.1-18.2.5 (1).jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file create-1.20.1-6.0.4.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file curios-forge-5.14.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file Delightful-1.20.1-3.7.2.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.15.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.1.2.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.1.3.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file gravestone-forge-1.20.1-1.0.24.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.106 (1).jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file journeymap-1.20.1-5.10.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1 (1).jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file NaturesCompass-1.20.1-1.11.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file obscure_api-15.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file origins-forge-1.20.1-1.10.0.9-all.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file tl_skin_cape_forge_1.20_1.20.1-1.32.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file voicechat-forge-1.20.1-2.5.30.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:46] [main/INFO]: Found mod file waystones-forge-1.20.1-14.1.11.jar of type MOD with provider {mods folder locator at C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack\mods}
+[22:51:47] [main/WARN]: Mod file C:\Users\SmallShorty\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.0\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[22:51:47] [main/WARN]: Mod file C:\Users\SmallShorty\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.0\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[22:51:47] [main/WARN]: Mod file C:\Users\SmallShorty\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.0\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[22:51:47] [main/WARN]: Mod file C:\Users\SmallShorty\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.0\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[22:51:47] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@f2e4acf
+[22:51:47] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@f2e4acf
+[22:51:47] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@f2e4acf
+[22:51:47] [main/INFO]: Found mod file mclanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@f2e4acf
+[22:51:47] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@f2e4acf
+[22:51:47] [main/INFO]: Found mod file forge-1.20.1-47.4.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@f2e4acf
+[22:51:47] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 536.23, NVIDIA Corporation
+[22:51:47] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22:51:47] [main/INFO]: Found 10 dependencies adding them to mods collection
+[22:51:47] [main/INFO]: Found mod file kuma-api-forge-20.1.10+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:47] [main/INFO]: Found mod file mixinextras-forge-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:47] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:47] [main/INFO]: Found mod file calio-forge-1.20.1-1.11.0.5.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:47] [main/INFO]: Found mod file apoli-forge-1.20.1-2.9.0.8.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:47] [main/INFO]: Found mod file flywheel-forge-1.20.1-1.0.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:47] [main/INFO]: Found mod file additionalentityattributes-forge-1.4.0.5+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:47] [main/INFO]: Found mod file Registrate-MC1.20-1.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:47] [main/INFO]: Found mod file Ponder-Forge-1.20.1-1.0.52.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:47] [main/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3b46dd8
+[22:51:49] [main/INFO]: Compatibility level set to JAVA_17
+[22:51:49] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[22:51:49] [main/INFO]: Launching target 'forgeclient' with arguments [--version, smallpack, --gameDir, C:\Users\SmallShorty\AppData\Roaming\.minecraft\versions\smallpack, --assetsDir, C:\Users\SmallShorty\AppData\Roaming\.minecraft\assets, --uuid, d8ff23ff225547e782c52bf944aab4ca, --username, SmallShorty, --assetIndex, 5, --accessToken, ????????, --clientId, null, --xuid, null, --userType, mojang, --versionType, release, --width, 925, --height, 530]
+[22:51:49] [main/WARN]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:51:51] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:51:56] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 185 milliseconds
+[22:51:57] [pool-4-thread-1/WARN]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[22:51:58] [Render thread/WARN]: Assets URL 'union:/C:/Users/SmallShorty/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23212!/assets/.mcassetsroot' uses unexpected schema
+[22:51:58] [Render thread/WARN]: Assets URL 'union:/C:/Users/SmallShorty/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23212!/data/.mcassetsroot' uses unexpected schema
+[22:51:58] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:51:59] [Render thread/ERROR]: Failed to verify authentication
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:147) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.<init>(YggdrasilUserApiService.java:63) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createUserApiService(YggdrasilAuthenticationService.java:124) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at net.minecraft.client.Minecraft.m_193585_(Minecraft.java:649) ~[client-1.20.1-20230612.114412-srg.jar%23212!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:413) ~[client-1.20.1-20230612.114412-srg.jar%23212!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:182) ~[smallpack.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.4.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:85) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.1.jar%23111!/:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:122) ~[authlib-4.0.43.1.jar%23111!/:?]
+	... 20 more
+[22:51:59] [Render thread/INFO]: Setting user: SmallShorty
+[22:51:59] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[22:51:59] [modloading-worker-0/INFO]: Calio 1.20.1-1.11.0.5 initializing...
+[22:51:59] [modloading-worker-0/INFO]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[22:51:59] [modloading-worker-0/INFO]: Sending ConfigManager...
+[22:51:59] [modloading-worker-0/INFO]: Sending ConfigManager took 2.574 ms
+[22:51:59] [modloading-worker-0/INFO]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[22:52:00] [modloading-worker-0/INFO]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[22:52:00] [modloading-worker-0/INFO]: MinecraftForge v47.4.0 Initialized
+[22:52:00] [modloading-worker-0/INFO]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[22:52:05] [Render thread/WARN]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[22:52:05] [Render thread/INFO]: loaded in block colorizer
+[22:52:05] [Render thread/INFO]: loaded in block colorizer
+[22:52:05] [Render thread/INFO]: loaded in item colorizer
+[22:52:05] [Render thread/INFO]: loaded in item colorizer
+[22:52:05] [Render thread/INFO]: Registering Keybinds
+[22:52:06] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources
+[22:52:06] [Worker-Main-2/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[22:52:06] [Worker-Main-3/WARN]: File alexscaves:sounds/block/purple_soda/purple_soda_swim_3.ogg does not exist, cannot add it to event alexscaves:purple_soda_swim
+[22:52:06] [Worker-Main-3/WARN]: File alexscaves:sounds/block/purple_soda/purple_soda_swim_4.ogg does not exist, cannot add it to event alexscaves:purple_soda_swim
+[22:52:06] [Worker-Main-3/WARN]: File alexscaves:sounds/mob/luxtructosaurus/luxtructosaurus_snort_0.ogg does not exist, cannot add it to event alexscaves:luxtructosaurus_snort
+[22:52:06] [Worker-Main-3/WARN]: File alexscaves:sounds/mob/luxtructosaurus/luxtructosaurus_snort_1.ogg does not exist, cannot add it to event alexscaves:luxtructosaurus_snort
+[22:52:06] [Worker-Main-3/WARN]: File alexscaves:sounds/mob/luxtructosaurus/luxtructosaurus_snort_2.ogg does not exist, cannot add it to event alexscaves:luxtructosaurus_snort
+[22:52:06] [Worker-Main-3/WARN]: File alexscaves:sounds/mob/luxtructosaurus/luxtructosaurus_breathe_0.ogg does not exist, cannot add it to event alexscaves:luxtructosaurus_breathe
+[22:52:06] [Worker-Main-3/WARN]: File alexscaves:sounds/mob/luxtructosaurus/luxtructosaurus_breathe_1.ogg does not exist, cannot add it to event alexscaves:luxtructosaurus_breathe
+[22:52:06] [Worker-Main-3/WARN]: File alexscaves:sounds/mob/luxtructosaurus/luxtructosaurus_breathe_2.ogg does not exist, cannot add it to event alexscaves:luxtructosaurus_breathe
+[22:52:06] [Worker-Main-1/ERROR]: Invalid path in pack: watching:textures/item/renders/player/8bit_Librarian.png, ignoring
+[22:52:07] [Worker-Main-1/WARN]: Texture watching:item/renders/items/iron_pickaxe with size 8x8 limits mip level from 4 to 3
+[22:52:07] [Worker-Main-1/WARN]: Texture delightful:block/cantaloupe_plant with size 12x10 limits mip level from 3 to 1
+[22:52:07] [Worker-Main-4/INFO]: [voicechat] Compatibility version 18
+[22:52:07] [Worker-Main-3/INFO]: From The Fog Loaded Successfully!
+[22:52:07] [Worker-Main-4/INFO]: [voicechat] Loading plugins
+[22:52:07] [Worker-Main-4/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:52:07] [Worker-Main-4/INFO]: [voicechat] Initializing plugins
+[22:52:07] [Worker-Main-4/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:52:07] [Worker-Main-4/INFO]: Found @Ljourneymap/client/api/ClientPlugin;: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[22:52:07] [Forge Version Check/INFO]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[22:52:07] [Render thread/INFO]: Initializing Packet Registries
+[22:52:07] [Render thread/INFO]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[22:52:07] [Render thread/INFO]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[22:52:08] [Worker-Main-1/INFO]: [voicechat] Loading Opus
+[22:52:08] [Forge Version Check/INFO]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
+[22:52:08] [Forge Version Check/INFO]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[22:52:08] [Render thread/INFO]: Journeymap Initializing
+[22:52:08] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23213!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23213!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	... 6 more
+[22:52:08] [Forge Version Check/INFO]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[22:52:08] [Forge Version Check/INFO]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[22:52:08] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22:52:08] [Forge Version Check/INFO]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[22:52:08] [Forge Version Check/INFO]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[22:52:08] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23213!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23213!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	... 6 more
+[22:52:08] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22:52:09] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[22:52:09] [Forge Version Check/INFO]: [delightful] Starting version check at https://raw.githubusercontent.com/brnbrd/Delightful/1.20.1/update/update.json
+[22:52:09] [Forge Version Check/INFO]: [delightful] Found status: UP_TO_DATE Current: 3.7.2 Target: null
+[22:52:09] [Forge Version Check/INFO]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[22:52:09] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:186) ~[fmlcore-1.20.1-47.4.0.jar%23213!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:117) ~[fmlcore-1.20.1-47.4.0.jar%23213!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	... 6 more
+[22:52:10] [Worker-Main-5/WARN]: Missing textures in model delightful:sliced_gloomgourd#bites=3:
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_side
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_top
+[22:52:10] [Worker-Main-5/WARN]: Missing textures in model delightful:sliced_gloomgourd#bites=2:
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_side
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_top
+[22:52:10] [Worker-Main-5/WARN]: Missing textures in model delightful:sliced_gloomgourd#bites=1:
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_side
+    minecraft:textures/atlas/blocks.png:undergarden:block/gloomgourd_top
+[22:52:10] [Worker-Main-5/INFO]: Loaded emissive block models in 205 ms
+[22:52:11] [Worker-Main-5/INFO]: Registering Ponder Scenes took 127.3 ms
+[22:52:11] [Worker-Main-5/INFO]: Registering Ponder Tags took 6.340 ms
+[22:52:14] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[22:52:14] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[22:52:14] [Render thread/WARN]: Missing sound for event: alexscaves:abyssal_chasm_ambience_mood
+[22:52:14] [Render thread/WARN]: Missing sound for event: alexscaves:luxtructosaurus_breath
+[22:52:14] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on ƒËÌ‡ÏËÍË (USBFC1S)
+[22:52:14] [Render thread/INFO]: Sound engine started
+[22:52:14] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/signs.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[22:52:14] [Render thread/WARN]: Could not apply radiation glow layer to create:package, has custom renderer that is not LivingEntityRenderer.
+[22:52:14] [Render thread/WARN]: Could not apply radiation glow layer to alexscaves:ferrouslime, has custom renderer that is not LivingEntityRenderer.
+[22:52:14] [Render thread/WARN]: Could not apply radiation glow layer to aquamirae:maze_rose, has custom renderer that is not LivingEntityRenderer.
+[22:52:14] [Render thread/WARN]: Could not apply radiation glow layer to aquamirae:poisoned_chakra, has custom renderer that is not LivingEntityRenderer.
+[22:52:14] [Render thread/WARN]: Could not apply rainbow color layer to create:package, has custom renderer that is not LivingEntityRenderer.
+[22:52:14] [Render thread/WARN]: Could not apply rainbow color layer to alexscaves:ferrouslime, has custom renderer that is not LivingEntityRenderer.
+[22:52:14] [Render thread/WARN]: Could not apply rainbow color layer to aquamirae:maze_rose, has custom renderer that is not LivingEntityRenderer.
+[22:52:14] [Render thread/WARN]: Could not apply rainbow color layer to aquamirae:poisoned_chakra, has custom renderer that is not LivingEntityRenderer.
+[22:52:14] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[22:52:14] [Render thread/WARN]: Shader alexscaves:rendertype_red_ghost could not find sampler named Sampler2 in the specified shader program.
+[22:52:14] [Render thread/INFO]: registered internal shaders
+[22:52:14] [Render thread/WARN]: Shader bumpy could not find uniform named OutSize in the specified shader program.
+[22:52:14] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[22:52:14] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[22:52:14] [Render thread/INFO]: Loaded 77 shader sources in 21,673 ms
+[22:52:14] [Render thread/INFO]: Loaded 51 train hat configurations.
+[22:52:15] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: null
+[22:53:13] [Render thread/INFO]: Connecting to 185.186.143.131, 25580
+[22:54:00] [Render thread/INFO]: Connecting to sftp://lumina.c4b.s-hub.xyz:2022, 25565
+[22:54:00] [Server Connector #2/ERROR]: Couldn't connect to server: Unknown host "sftp://lumina.c4b.s-hub.xyz:2022"
+[22:56:13] [Render thread/INFO]: Connecting to 185.186.143.131, 25580
+[22:56:44] [Render thread/INFO]: Connecting to 185.186.143.131, 25580
+[22:56:46] [Server Connector #4/ERROR]: Couldn't connect to server
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: lumina.c4b.s-hub.xyz/185.186.143.131:25580
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:672) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:946) ~[?:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:337) ~[netty-transport-4.1.82.Final.jar%23128!/:4.1.82.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334) ~[netty-transport-4.1.82.Final.jar%23128!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776) ~[netty-transport-4.1.82.Final.jar%23128!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.82.Final.jar%23128!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.82.Final.jar%23128!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.82.Final.jar%23128!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%23123!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%23123!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[22:58:17] [Render thread/INFO]: Connecting to 185.186.143.131, 25580
+[22:58:51] [Render thread/INFO]: Connecting to 185.186.143.131, 25580
+[22:59:05] [Render thread/INFO]: Connecting to 185.186.143.131, 25580
+[22:59:52] [Render thread/INFO]: Connecting to 185.186.143.131, 25580
+[23:00:34] [Render thread/INFO]: Connecting to 185.186.143.131, 25580
+[23:02:44] [Render thread/INFO]: Connecting to 185.186.143.131, 25580
+[23:02:44] [Netty Client IO #8/INFO]: CDRM Initialized with 16 registries
+[23:02:45] [Render thread/INFO]: Loading synced config from server: backpacked:server
+[23:02:48] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[23:02:49] [Netty Client IO #8/INFO]: Connected to a modded server.
+[23:02:50] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[23:02:50] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[23:02:50] [Render thread/INFO]: [voicechat] Sending secret request to the server
+[23:02:50] [Render thread/INFO]: Started 2 worker threads
+[23:02:50] [Render thread/INFO]: CDRM Initialized with 16 registries
+[23:02:51] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[23:02:52] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[23:02:52] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[23:02:52] [Render thread/INFO]: Starting JEI...
+[23:02:52] [Render thread/INFO]: Registering item subtypes...
+[23:02:52] [Render thread/INFO]: Registering item subtypes took 3.193 ms
+[23:02:52] [Render thread/INFO]: Registering fluid subtypes...
+[23:02:52] [Render thread/INFO]: Registering fluid subtypes took 1.354 ms
+[23:02:52] [Render thread/INFO]: Registering ingredients...
+[23:02:52] [Render thread/WARN]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Operator Utilities
+[23:02:52] [Render thread/INFO]: Registering ingredients: jei:minecraft took 113.6 milliseconds
+[23:02:52] [Render thread/INFO]: Registering ingredients took 114.1 ms
+[23:02:52] [Render thread/INFO]: Registering extra ingredients...
+[23:02:52] [Render thread/INFO]: Registering extra ingredients: create:jei_plugin took 33.63 milliseconds
+[23:02:52] [Render thread/INFO]: Registering extra ingredients took 34.18 ms
+[23:02:52] [Render thread/INFO]: Registering search ingredient aliases...
+[23:02:52] [Render thread/INFO]: Registering search ingredient aliases took 466.2 ?s
+[23:02:52] [Render thread/INFO]: Registering categories...
+[23:02:52] [Render thread/INFO]: Registering categories: jei:minecraft took 11.11 milliseconds
+[23:02:52] [Render thread/INFO]: Registering categories: create:jei_plugin took 36.94 milliseconds
+[23:02:52] [Render thread/INFO]: Registering categories took 57.93 ms
+[23:02:52] [Render thread/INFO]: Registering vanilla category extensions...
+[23:02:52] [Render thread/INFO]: Registering vanilla category extensions took 3.646 ms
+[23:02:52] [Render thread/INFO]: Registering recipe catalysts...
+[23:02:52] [Render thread/INFO]: Registering recipe catalysts took 1.985 ms
+[23:02:52] [Render thread/INFO]: Building recipe registry...
+[23:02:52] [Render thread/INFO]: Building recipe registry took 16.33 ms
+[23:02:52] [Render thread/INFO]: Registering advanced plugins...
+[23:02:52] [Render thread/INFO]: Registering advanced plugins took 218.0 ?s
+[23:02:52] [Render thread/INFO]: Registering recipes...
+[23:02:53] [Render thread/INFO]: Registering recipes: jei:minecraft took 377.5 milliseconds
+[23:02:53] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin took 24.31 milliseconds
+[23:02:53] [Render thread/INFO]: Registering recipes: create:jei_plugin took 143.2 milliseconds
+[23:02:53] [Render thread/INFO]: Ingredients are being removed at runtime: 112 net.minecraft.world.item.ItemStack
+[23:02:53] [Render thread/INFO]: Ingredients are being removed at runtime: 2 net.minecraftforge.fluids.FluidStack
+[23:02:53] [Render thread/INFO]: Registering recipes took 554.0 ms
+[23:02:53] [Render thread/INFO]: Registering recipes transfer handlers...
+[23:02:53] [Render thread/INFO]: Registering recipes transfer handlers took 3.471 ms
+[23:02:53] [Render thread/INFO]: Building runtime...
+[23:02:53] [Render thread/INFO]: Registering gui handlers...
+[23:02:53] [Render thread/INFO]: Registering gui handlers took 9.877 ms
+[23:02:53] [Render thread/INFO]: Registering Runtime...
+[23:02:53] [Render thread/INFO]: Starting JEI GUI
+[23:02:53] [Render thread/INFO]: Building ingredient list...
+[23:02:53] [Render thread/INFO]: Building ingredient list took 39.75 ms
+[23:02:53] [Render thread/INFO]: Building ingredient filter...
+[23:02:53] [Render thread/INFO]: Adding 3597 ingredients
+[23:02:54] [Render thread/INFO]: Added 3597 ingredients
+[23:02:54] [Render thread/INFO]: Building ingredient filter took 664.1 ms
+[23:02:54] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 774.9 milliseconds
+[23:02:54] [Render thread/INFO]: Registering Runtime took 775.5 ms
+[23:02:54] [Render thread/INFO]: Building runtime took 791.5 ms
+[23:02:54] [Render thread/INFO]: Sending Runtime...
+[23:02:54] [Render thread/INFO]: Sending Runtime took 212.8 ?s
+[23:02:54] [Render thread/INFO]: Starting JEI took 1.625 s
+[23:02:54] [Render thread/INFO]: Loaded 19 advancements
+[23:02:54] [Render thread/INFO]: [voicechat] Received secret
+[23:02:54] [Render thread/INFO]: [voicechat] Connecting to voice chat server: '185.186.143.131:24454'
+[23:02:54] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[23:02:54] [Render thread/INFO]: [System] [CHAT] [Simple Voice Chat] Press V to set up
+[23:02:55] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[23:02:56] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[23:02:57] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[23:02:58] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[23:02:58] [Render thread/INFO]: [System] [CHAT] ßeJourneyMap:ßf Press [ßbJßf]
+[23:02:59] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[23:03:00] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 2.6666666666666665
+[23:03:00] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[23:03:00] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 1.7
+[23:03:01] [VoiceChatAuthenticationThread/INFO]: [voicechat] Trying to authenticate voice chat connection
+[23:03:01] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[23:03:01] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[23:03:01] [Render thread/INFO]: Stopping JEI
+[23:03:01] [Render thread/INFO]: Sending Runtime Unavailable...
+[23:03:01] [Render thread/INFO]: Stopping JEI GUI
+[23:03:01] [Render thread/INFO]: Sending Runtime Unavailable took 1.809 ms
+[23:03:01] [Render thread/INFO]: Unloading synced configs from server
+[23:03:01] [Render thread/INFO]: Sending config unload event for backpacked.server.toml
+[23:03:01] [Render thread/INFO]: [voicechat] Clearing audio channels
+[23:03:01] [Render thread/INFO]: [voicechat] Disconnecting voicechat
+[23:05:50] [Render thread/INFO]: Stopping!
